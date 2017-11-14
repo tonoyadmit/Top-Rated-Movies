@@ -1,0 +1,1 @@
+To make server calls, I have used the API from themoviedb.org which requires an API Key. To run this project, you need to add the API Key mentioned in build.gradle.

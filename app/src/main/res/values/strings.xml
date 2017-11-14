@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Top Rated Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="overview_title">MOVIE OVERVIEW</string>
+    <string name="description_logo">Logo image</string>
+    <string name="desc_button_favorite">Favorite</string>
+    <string name="label_trailers">Trailers:</string>
+    <string name="label_reviews">Reviews:</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="description_button_play">Play</string>
+
+</resources>

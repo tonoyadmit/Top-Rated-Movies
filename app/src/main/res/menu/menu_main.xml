@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="in.digitechlab.popularmovies1.in.digitechlab.toprankedmovies.MainActivity">
+    <item
+        android:id="@+id/sort_most_popular"
+        android:title="Most Popular"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sort_top_rated"
+        android:title="Top Rated"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/my_favourite"
+        android:title="My Favourites"
+        app:showAsAction="never"/>
+</menu>
